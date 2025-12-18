@@ -11,7 +11,7 @@ We have raw data in an excel workbook, without headers and formatting. The workb
 
 ## Problem statement:
 Prepare the data creating macros with VBA code. The code will do the following tasks:
-1. Insert a row of headers and adding name to data list.
+1. Insert a row of header and add names to each data list.
 2. Format the header.
 3. Format the expense data with dollar sign.
 

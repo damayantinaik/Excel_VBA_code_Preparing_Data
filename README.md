@@ -1,13 +1,13 @@
 # Excel VBA Code for Data Preparation 
 
 ## Introduction:
-We have raw data in an excel workbook, without headers and formatting. The workbook has four worksheets:
+I have raw data in an excel workbook, without header and formatting. The workbook has four worksheets:
 1. East Record
 2. West Records
 3. North Records
 4. South Records
 
-   Each worksheets has different number of records.
+   Each worksheet has different number of records.
 
 ## Problem statement:
 Prepare the data creating macros with VBA code. The code will do the following tasks:

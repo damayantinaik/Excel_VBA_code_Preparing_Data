@@ -1,4 +1,4 @@
-# Excel VBA code for Data Preparation 
+# Excel VBA Code for Data Preparation 
 
 ## Introduction:
 We have raw data in an excel workbook, without headers and formatting. The workbook has four worksheets:
